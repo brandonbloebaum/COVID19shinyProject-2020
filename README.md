@@ -1,4 +1,4 @@
-# COVID19shinyProject-2020
+# COVID19 Dashboard Data Science Project 
 This project was completed during my 2020 Research Experience for Undergraduates (REU) program through Iowa State University
 Other Contributors include: Dr. Mariah Birgen (Wartburg College) and Ahmed Hassan (Iowa State University)
 
